@@ -2,7 +2,7 @@
 
 **Tools Used:** Power BI, DAX, Power Query  
 **Dataset:** Mobile sales transactions with customer details, product info, pricing and feedback  
-**Certificate:** [Power BI Course Certificate](./Power BI Course Certificate.pdf)
+**Certificate:** [Power_BI_Course_Certificate](./Power_BI_Course_Certificate.pdf)
 
 ---
 
@@ -25,7 +25,7 @@ This project visualizes mobile sales data from various cities and brands using P
 ## 📷 Dashboard Screenshots
 
 ![My_Dashboard](./My_Dashboard.png)  
-![MTD Report](./MTD Report.png)  
+![MTD_Report](./MTD_Report.png)  
 ![Same_Period_Last_Year](./Same_Period_Last_Year.png)  
 
 ---
@@ -33,9 +33,9 @@ This project visualizes mobile sales data from various cities and brands using P
 ## 📁 Files Included
 
 - `My_Dashboard - PBI.pbix` – Power BI dashboard file  
-- `Mobile Sales Data.xlsx` – Sales data used in the report  
-- `Power BI Course Certificate.pdf` – Course completion certificate  
-- `My_Dashboard.png` – Dashboard preview image  
+- `Mobile_Sales_Data.xlsx` – Sales data used in the report  
+- `Power_BI_Course_Certificate.pdf` – Course completion certificate  
+- `My_Dashboard.png`, `MTD_Report.png`,`Same_Period_Last_Year.png` – Dashboard preview images  
 
 ---
 
