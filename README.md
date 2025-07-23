@@ -24,8 +24,13 @@ This project visualizes mobile sales data from various cities and brands using P
 
 ## 📷 Dashboard Screenshots
 
-![My_Dashboard](./My_Dashboard.png)  
-![MTD_Report](./MTD_Report.png)  
+Main Dashboard
+![My_Dashboard](./My_Dashboard.png)
+
+MTD Report
+![MTD_Report](./MTD_Report.png)
+
+Same Period Last Year
 ![Same_Period_Last_Year](./Same_Period_Last_Year.png)  
 
 ---
