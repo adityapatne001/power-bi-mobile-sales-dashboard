@@ -2,7 +2,6 @@
 
 **Tools Used:** Power BI, DAX, Power Query  
 **Dataset:** Mobile sales transactions with customer details, product info, pricing and feedback  
-**Certificate:** [Power_BI_Course_Certificate](./Power_BI_Course_Certificate.pdf)
 
 ---
 
